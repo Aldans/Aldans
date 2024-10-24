@@ -1,3 +1,2 @@
 #### About me. 
-About 4 years of experience in system administration, and about a 2 years in DevOps. 
-Expertise - administration, and implementation of CI/CD. Focusing on a bare-metal, cloud, infrastructure as code.
+DevOps engineer with 4 years of experience, started my career as a Junior and gradually became a Mid-level specialist. I specialize in process automation, CI/CD setup, container and cloud infrastructure management. I am able to effectively resolve incidents and work on improving production processes to increase stability and speed of software release.
